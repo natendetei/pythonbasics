@@ -22,3 +22,4 @@ for fruit in fruits:
 # loop through a string.:
 for z in "emobilis":
     print(z)
+
